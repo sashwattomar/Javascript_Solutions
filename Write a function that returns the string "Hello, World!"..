@@ -1,0 +1,10 @@
+
+Instructions
+Write a function that returns the string "Hello, World!".
+
+****************************************************************************************
+//SOLUTION
+
+export function hello() {
+  return 'Hello, World!';
+}
